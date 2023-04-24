@@ -12,13 +12,14 @@ Sou apaixonada por esse mundo tecnológico, um grande avanço no meu conheciment
  <div>
   <a href="mailto:michelle.neves23@gmail.com"><img src=	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
     <a href="https://www.linkedin.com/in/michelle-neves-vom-stein-greghi-6a1058223" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <br><br>
  </div>
 
 
 
 <div>
   <a href="https://github.com/MichelleGreghi">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichelleGreghi&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MichelleGreghi&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/><br><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichelleGreghi&layout=compact&langs_count=7&theme=synthwave"/>
 </div>
 
