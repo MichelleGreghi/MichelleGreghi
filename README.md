@@ -5,7 +5,7 @@
 🖱 Banco de Dados: MySQL <br>
 🖱 Front-End: TypeScript | React <br><br>
 
-Sou apaixonada por esse mundo tecnológico, um grande avanço no meu conhecimento foi no bootcamp na Generation, neste bootcamp consegui visualizar mais dessa área, ver como é o dia a dia de uma pessoa desenvolvedora, aprimorar minhas soft Skills e estudar de forma intensiva a linguagem Java, além desse bootcamp não parei de me aprofundar nessa linguagem fazendo alguns cursos e também estou no segundo semestre de Engenharia de Software.
+Sou apaixonada por esse mundo tecnológico, um grande avanço no meu conhecimento foi no bootcamp na Generation, neste bootcamp consegui visualizar mais dessa área, ver como é o dia a dia de uma pessoa desenvolvedora, aprimorar minhas soft Skills e estudar de forma intensiva a linguagem Java, além desse bootcamp não parei de me aprofundar nessa linguagem fazendo alguns cursos.
 
 📱 Segue meus contatos:<br>
 
