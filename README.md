@@ -1,7 +1,12 @@
-### Oiii! Eu sou a *Michelle Greghi* 😊
+### Oiii! Eu sou a *Michelle Greghi*, seja bem-vindo(a) ao meu GitHub 😊
 
-💻 *Sou estudante de Programação e a cada dia me encontro mais apaixonada pela área.*<br>
-🖱 Front-end: HTML e CSS<br>
+💻 *Sou uma Desenvolvedora de Software com conhecimentos em:*<br>
+🖱 Back-End: Java | Framework Spring <br>
+🖱 Banco de Dados: MySQL
+🖱 Front-End: TypeScript | React
+
+Sou apaixonada por esse mundo tecnológico, um grande avanço no meu conhecimento foi no bootcamp na Generation, neste bootcamp consegui visualizar mais dessa área, ver como é o dia a dia de uma pessoa desenvolvedora, aprimorar minhas soft Skills e estudar de forma intensiva a linguagem Java, além desse bootcamp não parei de me aprofundar nessa linguagem fazendo alguns cursos e também estou no segundo semestre de Engenharia de Software.
+
 📱 Segue meus contatos:<br>
 
  <div>
